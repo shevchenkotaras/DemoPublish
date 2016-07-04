@@ -19,6 +19,8 @@ namespace ConsoleApplication1
             //unsynced commit
 
             //last change before commit
+
+            //Feature 1.1
         }
     }
 }
